@@ -1,39 +1,38 @@
-# OculusLipsyncPlugin_UE5_3
+# OculusLipsyncPlugin_UE5_5
 
-This repository contains the Oculus LipSync Plugin, which has been compiled for Unreal Engine 5.3. 
+This project was forked from https://github.com/elertil/-OculusLipsyncPlugin_UE5_3
 
-Cheers to PDDDDDDDDDDD123 aka DacDacDac from https://forums.unrealengine.com/t/anyone-get-oculus-ovr-lipsync-plugin-working-in-ue5/560670/22 thread who compiled and gave me the right to share it with you!
+Forgive me father for I have used chatgpt to fix the code
 
-This plugin allows you to synchronize the lips of 3D characters in your game with audio in real-time, using the Oculus LipSync technology.
+LipSyncSequence generation and playback is working
 
 # How to Extract
 
-Use 7Zip - Right click button on first file - 7Zip - extract to Oculus_LipSync_UE_5.3/
-
-![image](https://github.com/elertil/-OculusLipsyncPlugin_UE5_3/assets/100329624/2327d946-4732-4f0c-bfb3-b43fac72bddb)
-
+Use 7Zip :3
 
 # How to Install
 
-Extract .zip file and add plugin to your project folder ...\Project\Plugins\
+add the "OVRLipSync" file to your project folder ...\Project\Plugins\
 
-![image](https://github.com/elertil/-OculusLipsyncPlugin_UE5_3/assets/100329624/b82aa621-0a46-4ba8-bf36-78a61e4ede84)
-![image](https://github.com/elertil/-OculusLipsyncPlugin_UE5_3/assets/100329624/3791661a-9397-4dfb-a4b2-8a6a7973c732)
-
+![image](https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/280540357-b82aa621-0a46-4ba8-bf36-78a61e4ede84.png)
+![image](https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/280540392-3791661a-9397-4dfb-a4b2-8a6a7973c732.png)
 
 After import your files .wav in Unreal Engine 5.3, open file and change/set Loading Behavior Override to “Force Inline”. And after that can create lipsync animation.
 
-![image](https://github.com/elertil/-OculusLipsyncPlugin_UE5_3/assets/100329624/21dd0d54-00fd-4d7b-9d42-4140982a7787)
+![image](https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/280540538-21dd0d54-00fd-4d7b-9d42-4140982a7787.png)
 
-if your OVRLipSyncSequence dont show disk size of created Sequence
+apparently:
+"
+if your OVRLipSyncSequence doesn't show disk size of created Sequence
 
 -save generated file
 -exit and enter the folder where its generated
 
 That will fix the problem
+"
 
 # TestVideo
-https://github.com/elertil/-OculusLipsyncPlugin_UE5_3/assets/100329624/62ca9eb1-d2cc-4c73-b83f-41c2a76f6520
+https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/2025-04-01_08-33-28.mp4
 
 
  
