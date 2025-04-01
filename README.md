@@ -14,12 +14,12 @@ Use 7Zip :3
 
 add the "OVRLipSync" file to your project folder ...\Project\Plugins\
 
-![image](https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/280540357-b82aa621-0a46-4ba8-bf36-78a61e4ede84.png)
-![image](https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/280540392-3791661a-9397-4dfb-a4b2-8a6a7973c732.png)
+![280540357-b82aa621-0a46-4ba8-bf36-78a61e4ede84](https://github.com/user-attachments/assets/d9033c41-d954-4c44-aeee-c073d1137b07)
+![280540392-3791661a-9397-4dfb-a4b2-8a6a7973c732](https://github.com/user-attachments/assets/422d60be-ea4a-485d-8bc8-682a3f7f3370)
 
 After import your files .wav in Unreal Engine 5.3, open file and change/set Loading Behavior Override to “Force Inline”. And after that can create lipsync animation.
 
-![image](https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/280540538-21dd0d54-00fd-4d7b-9d42-4140982a7787.png)
+![280540538-21dd0d54-00fd-4d7b-9d42-4140982a7787](https://github.com/user-attachments/assets/cf33da25-ba82-446f-a793-ba82b922de65)
 
 apparently:
 "
@@ -32,7 +32,7 @@ That will fix the problem
 "
 
 # TestVideo
-https://github.com/Goldgolem878/-OculusLipsyncPlugin_UE5_5/assets/2025-04-01_08-33-28.mp4
+https://github.com/user-attachments/assets/a5caa178-e0d1-489c-9760-5236777efcbf
 
 
  
