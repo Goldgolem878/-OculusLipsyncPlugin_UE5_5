@@ -2,6 +2,8 @@
 
 This project was forked from https://github.com/elertil/-OculusLipsyncPlugin_UE5_3
 
+This hasn't been tested in a packaged game yet
+
 Forgive me father for I have used chatgpt to fix the code
 
 LipSyncSequence generation and playback is working
